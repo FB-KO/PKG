@@ -132,9 +132,9 @@ def slowprint(s):
         sys.stdout.flush()
         time.sleep(8. / 100)
 print("\033[95m+-------------------------------------------------+")
-slowprint('''\033[95m|             Welcome To NITRO HACKER           |
+slowprint('''\033[95m|             Welcome To Jahid404           |
 |           Subscribe Our YouTube Channel         |
-| Watch Ours Tutorials For Learn Ethical Hacking  |''')
+| Watch Ours Tutorials For Learn Jahid404  |''')
 print("+-------------------------------------------------+")
 
 
